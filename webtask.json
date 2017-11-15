@@ -1,12 +1,12 @@
 {
-  "codeUrl": "https://github.com/auth0/auth0-mailchimp-export",
-  "title": "Auth0 MailChimp Export",
-  "name": "auth0-mailchimp-export",
+  "codeUrl": "https://github.com/singlemusic/auth0-mailchimp-export",
+  "title": "Auth0 MailChimp Export 2",
+  "name": "auth0-mailchimp-export-2",
   "version": "1.0.0",
   "author": "auth0",
   "description": "Allows Auth0 Customers to synchronize their Auth0 User base (those that have an email) with a MailChimp List",
   "type": "cron",
-  "repository": "https://github.com/auth0/auth0-mailchimp-export",
+  "repository": "https://github.com/singlemusic/auth0-mailchimp-export",
   "keywords": [
     "auth0",
     "mailchimp",
